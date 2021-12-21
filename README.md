@@ -22,7 +22,8 @@ projectdata/car_data/car_data/train Training data
 projectdata/car_data/car_data/test Testing data
 
 googled 5 googled picture of 5 different car, used for testing. 
--Corresponds to ['Bentley Continental GT Coupe 2012', 'Bugatti Veyron 16.4 Convertible 2009', 'Ferrari 458 Italia Coupe 2012', 'Lamborghini Aventador Coupe 2012', 'Rolls-Royce Ghost Sedan 2012']
+
+- Corresponds to ['Bentley Continental GT Coupe 2012', 'Bugatti Veyron 16.4 Convertible 2009', 'Ferrari 458 Italia Coupe 2012', 'Lamborghini Aventador Coupe 2012', 'Rolls-Royce Ghost Sedan 2012']
 
 ## Model 1
 1 Conv2D Layer with MaxPooling, BatchNormalization and Dropout
